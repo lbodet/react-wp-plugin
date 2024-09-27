@@ -10,7 +10,7 @@
  * Version:         1.0
  */
 
-define("REACT_APP_ID", "my-react-app-id");
+define("REACT_APP_ID", "react-wp-plugin");
 
 add_shortcode(constant("REACT_APP_ID"), 'displayReactApp');
 
